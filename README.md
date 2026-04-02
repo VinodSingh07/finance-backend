@@ -74,7 +74,7 @@ Create a `.env` file in the root directory:
 PORT=5000
 MONGO_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/finance-dashboard
 JWT_SECRET=your_super_secret_jwt_key
-JWT_EXPIRES_IN=7d
+JWT_EXPIRES_IN=60d
 NODE_ENV=development
 ```
 
