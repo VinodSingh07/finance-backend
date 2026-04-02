@@ -1,5 +1,10 @@
 # Finance Dashboard Backend
 
+## 🚀 Live API
+Base URL: https://finance-backend-44ak.onrender.com
+
+> Note: This is hosted on Render's free tier. If the API takes 30-50 seconds to respond on the first request, that is normal — the server spins down after inactivity and needs a moment to wake up.
+
 A role-based finance data processing and access control backend built with Node.js, Express, and MongoDB.
 
 ---
