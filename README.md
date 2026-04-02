@@ -56,7 +56,7 @@ finance-backend/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/VinodSingh07/finance-backend
 cd finance-backend
 ```
 
