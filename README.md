@@ -53,7 +53,14 @@ finance-backend/
 ├── server.js
 └── README.md
 ```
+## Testing the API
 
+Base URL: https://finance-backend-44ak.onrender.com
+
+1. Register an admin account via POST /api/auth/register
+2. Copy the token from the response
+3. Add it as Authorization: Bearer <token> header
+4. Test all other endpoints
 ---
 
 ## Setup Instructions
